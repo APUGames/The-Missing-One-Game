@@ -82,15 +82,15 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 9804}
     - Class: 114
-      Script: {instanceID: 9904}
+      Script: {instanceID: 9906}
     - Class: 114
-      Script: {instanceID: 9992}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10190}
+      Script: {instanceID: 10192}
     - Class: 114
-      Script: {instanceID: 10478}
+      Script: {instanceID: 10480}
     - Class: 114
       Script: {instanceID: 11160}
     - Class: 114
@@ -98,11 +98,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11472}
     - Class: 114
-      Script: {instanceID: 11724}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 11880}
+      Script: {instanceID: 11878}
     - Class: 114
-      Script: {instanceID: 17780}
+      Script: {instanceID: 61754}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -155,19 +155,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 9804}
     - Class: 114
-      Script: {instanceID: 9904}
+      Script: {instanceID: 9906}
     - Class: 114
-      Script: {instanceID: 9992}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10478}
+      Script: {instanceID: 10480}
     - Class: 114
       Script: {instanceID: 11294}
     - Class: 114
       Script: {instanceID: 11472}
     - Class: 114
-      Script: {instanceID: 11880}
+      Script: {instanceID: 11878}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -234,37 +234,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9778}
+      Script: {instanceID: 9780}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 9804}
     - Class: 114
-      Script: {instanceID: 9820}
+      Script: {instanceID: 9822}
     - Class: 114
-      Script: {instanceID: 9894}
+      Script: {instanceID: 9896}
     - Class: 114
-      Script: {instanceID: 9904}
+      Script: {instanceID: 9906}
     - Class: 114
-      Script: {instanceID: 9914}
+      Script: {instanceID: 9916}
     - Class: 114
-      Script: {instanceID: 9924}
+      Script: {instanceID: 9926}
     - Class: 114
-      Script: {instanceID: 9992}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10038}
+      Script: {instanceID: 10040}
     - Class: 114
-      Script: {instanceID: 10062}
+      Script: {instanceID: 10064}
     - Class: 114
-      Script: {instanceID: 10126}
+      Script: {instanceID: 10128}
     - Class: 114
-      Script: {instanceID: 10174}
+      Script: {instanceID: 10176}
     - Class: 114
-      Script: {instanceID: 10474}
+      Script: {instanceID: 10476}
     - Class: 114
-      Script: {instanceID: 10478}
+      Script: {instanceID: 10480}
     - Class: 114
-      Script: {instanceID: 10792}
+      Script: {instanceID: 10794}
     - Class: 114
-      Script: {instanceID: 11006}
+      Script: {instanceID: 11008}
     - Class: 114
       Script: {instanceID: 11160}
     - Class: 114
@@ -278,17 +278,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11472}
     - Class: 114
-      Script: {instanceID: 11756}
+      Script: {instanceID: 11754}
     - Class: 114
-      Script: {instanceID: 11802}
+      Script: {instanceID: 11800}
     - Class: 114
-      Script: {instanceID: 11816}
+      Script: {instanceID: 11814}
     - Class: 114
-      Script: {instanceID: 11880}
+      Script: {instanceID: 11878}
     - Class: 114
-      Script: {instanceID: 11934}
+      Script: {instanceID: 11932}
     - Class: 114
-      Script: {instanceID: 18766}
+      Script: {instanceID: 18508}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 121
@@ -1485,4 +1485,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Game Scene.unity
   - Assets/Scenes/BoatScene.unity
   - Assets/Scenes/End.unity
-  playerPath: /Users/jordan/Desktop/GAME 115/Oey-Project2/Builds/TheMissingOne_OSX.app
+  playerPath: /Users/jordan/Desktop/GAME 115/The Missing One Game/Builds/The_Missing_One_OSX.app
